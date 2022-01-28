@@ -1,6 +1,9 @@
 # AstronomyCal
 creates ics files of astronomical events in 2022 from the data from astropixels.com and seasky.org
 
+# Miscellaneous
+The Draconid meteor shower is excluded because of conflicting and ambiguous data.
+
 # Legal Notice
 
 ## AstroPixels
