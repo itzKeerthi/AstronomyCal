@@ -1,20 +1,9 @@
 # AstronomyCal
 creates an ics file of all astronomical events in an year with data provided by astropixels.com and seasky.org
 
-
-$\frac{1}{3}$
-
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
-
-$`\sqrt{2}`$
-
-![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
-![formula](https://render.githubusercontent.com/render/math?math=\color{red}\f(x)=sin(x))
-
 # Miscellaneous
 The Draconid meteor shower is excluded because of conflicting and ambiguous data.
+
 
 # Legal Notice
 
