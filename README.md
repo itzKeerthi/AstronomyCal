@@ -4,6 +4,12 @@ creates an ics file of all astronomical events in an year with data provided by 
 
 $\frac{1}{3}$
 
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+
+$`\sqrt{2}`$
+
 # Miscellaneous
 The Draconid meteor shower is excluded because of conflicting and ambiguous data.
 
