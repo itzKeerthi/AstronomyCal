@@ -10,6 +10,8 @@ SE = \frac{\sigma}{\sqrt{n}}
 
 $`\sqrt{2}`$
 
+![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
+
 # Miscellaneous
 The Draconid meteor shower is excluded because of conflicting and ambiguous data.
 
