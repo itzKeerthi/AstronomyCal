@@ -14,10 +14,10 @@ If you go to the countryside or area outside a town on a clear night you will se
 Use this link to get an idea about the light conditions at night in your area. https://www.lightpollutionmap.info/#zoom=13.28&lat=29.8641&lon=77.8984&layers=B0FFFFFFFTFFFFFFFFFFF
 
 ## Air Pollution
-
+info needed
 
 ## Moonlight
-The moon is beautiful for sure, but it can be too big and annoying especially when you want to see meteor showers and comets. The ideal time for observations is either during new moon. Since not everyday is new moon, before moonrise and after moonset are ideal conditions too.
+The moon is beautiful for sure, but it can be too big and annoying especially when you want to see meteor showers and comets. The ideal time for observations is during new moon. Since not everyday is new moon, before moonrise and after moonset are ideal timings too.
 https://www.timeanddate.com/moon/phases/
 
 # Support the International Dark-Sky Association
