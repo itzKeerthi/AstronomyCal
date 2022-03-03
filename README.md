@@ -2,13 +2,23 @@
 creates a single ics file of all astronomical events in an year with data provided by astropixels.com and seasky.org
 
 # Ideal conditions for viewing
-1. Clear sky https://www.lightpollutionmap.info/#zoom=13.28&lat=29.8641&lon=77.8984&layers=B0FFFFFFFTFFFFFFFFFFF
-2. No moonlight 
-## Light pollution
+
+1. No bright lights around
+2. No air pollution
+3. No moonlight 
+
+
+## Light Pollution
 If you go to the countryside or area outside a town on a clear night you will see many more stars than you would do in the city. The reason why you cannot see so many stars in a city is light pollution.
 
+Use this link to get an idea about the light conditions at night in your area. https://www.lightpollutionmap.info/#zoom=13.28&lat=29.8641&lon=77.8984&layers=B0FFFFFFFTFFFFFFFFFFF
 
-4. air pollution
+## Air Pollution
+
+
+## Moonlight
+The moon is beautiful for sure, but it can be too big and annoying especially when you want to see meteor showers and comets. The ideal time for observations is either during new moon. Since not everyday is new moon, before moonrise and after moonset are ideal conditions too.
+https://www.timeanddate.com/moon/phases/
 
 # Support the International Dark-Sky Association
 https://www.darksky.org/our-work/ways-to-give/
