@@ -1,6 +1,10 @@
 # AstronomyCal
 creates a single ics file of all astronomical events in an year with data provided by astropixels.com and seasky.org
 
+# Ideal conditions for viewing
+1. clear skies
+2. 
+
 # Miscellaneous
 The Draconid meteor shower is excluded because of conflicting and ambiguous data.
 
